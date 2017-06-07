@@ -1,0 +1,35 @@
+name: getalife
+analytics: {}
+github: true
+description: Being Free = Releasing Resentment
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.8530920899938792
+color:
+  lightness: 0.5430932425761347
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  saturation: 0.9625343289139062
+  brandStrength: 0.1089391873937424
+  rhythmicContrast: 0.8891515524334161
+content_rating:
+  adult: false
+typography_spectrum: 0.2937384422402829
+opengraph: {}
+title: Get Mad Get Even OR Get a Life
