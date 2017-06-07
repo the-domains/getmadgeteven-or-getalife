@@ -1,7 +1,7 @@
 name: getalife
 analytics: {}
 github: true
-description: Being Free = Releasing Resentment
+description: Being Free = Releasing Resentnent
 author: {}
 collections:
   - index:
@@ -9,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.8530920899938792
 color:
